@@ -1,0 +1,16 @@
+# Hassas dosyalar
+FiyatTakipBotu/appsettings.json
+FiyatTakipBotu/run_silent.vbs
+.env
+
+# Derleme dosyaları
+bin/
+obj/
+
+# Visual Studio dosyaları
+.vs/
+
+# Geçici dosyalar
+*.user
+*.suo
+*.log
